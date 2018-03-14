@@ -1,0 +1,18 @@
+{"questions":[
+	{
+		"spørgsmål":"Ringen fundet i Åmosen hedder..",
+		"svar":["Roskilde ringen","Åmose ringen","Tissø Ringen"],
+		"rigtig":3
+	},
+	{
+		"spørgsmål":"Åmosen er Danmarks største..",
+		"svar":["lavmose","Sø","Å"],
+		"rigtig":1
+	},
+	{
+		"spørgsmål":" Åmosen blev en del af Naturparken  Åmosen i år ",
+		"svar":["2003","2013","2015"],
+		"rigtig":2
+	}
+]
+}
