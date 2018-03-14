@@ -10,6 +10,12 @@
 		"rigtig":1
 	},
 	{
+		"spørgsmål":"Åmosen er Dan..",
+		"svar":["lavmose","Sø","Å"],
+		"rigtig":2
+	},
+	
+	{
 		"spørgsmål":" Åmosen blev en del af Naturparken  Åmosen i år ",
 		"svar":["2003","2013","2015"],
 		"rigtig":2
