@@ -4,6 +4,13 @@
 		"svar":["Roskilde ringen","Åmose ringen","Tissø Ringen"],
 		"rigtig":3
 	},
+	
+	{
+		"spørgsmål":"Åmosen åbner..",
+		"svar":["Kl 12","Kl 13","24/7"],
+		"rigtig":3
+	},
+	
 	{
 		"spørgsmål":"Åmosen er Danmarks største..",
 		"svar":["lavmose","Sø","Å"],
